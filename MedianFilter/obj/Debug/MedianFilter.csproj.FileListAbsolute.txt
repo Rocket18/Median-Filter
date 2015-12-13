@@ -1,0 +1,13 @@
+C:\Users\Rocke\Desktop\C#\MedianFilter\bin\Debug\MedianFilter.exe.config
+C:\Users\Rocke\Desktop\C#\MedianFilter\bin\Debug\MedianFilter.exe
+C:\Users\Rocke\Desktop\C#\MedianFilter\bin\Debug\MedianFilter.pdb
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.csprojResolveAssemblyReference.cache
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MainWindow.baml
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MainWindow.g.cs
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\App.g.cs
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter_MarkupCompile.cache
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.g.resources
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.Properties.Resources.resources
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.csproj.GenerateResource.Cache
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.exe
+C:\Users\Rocke\Desktop\C#\MedianFilter\obj\Debug\MedianFilter.pdb
